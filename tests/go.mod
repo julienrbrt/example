@@ -6,7 +6,7 @@ require (
 	cosmossdk.io/api v0.7.6
 	cosmossdk.io/depinject v1.1.0
 	cosmossdk.io/log v1.4.1
-	github.com/cosmos/cosmos-sdk v0.50.12
+	github.com/cosmos/cosmos-sdk v0.50.13
 	github.com/stretchr/testify v1.10.0
 	go.cosmonity.org/example v1.0.0
 )
