@@ -1,3 +1,9 @@
+> [!tip]
+> This repository has been archived and is no longer maintained.  
+> [Ignite CLI](https://github.com/ignite/cli) is now supports building minimal chains.  
+> Run `ignite s chain mini --minimal` to create a minimal chain.
+> Modules scaffolded by Ignite CLI are already by default minimal.
+
 # `{Module Name}`
 
 Overview of the module.
